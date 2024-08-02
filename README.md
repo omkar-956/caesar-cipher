@@ -1,26 +1,36 @@
 PRODIGY_CS_01
+
 🔒 Caesar Cipher
+
 This project implements a Caesar Cipher encryption and decryption tool using Python and Tkinter for the GUI. The development was done using the PyCharm IDE.
 
 📖 Overview
+
 The Caesar Cipher is a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down or up the alphabet. This tool allows you to encrypt and decrypt messages using the Caesar Cipher technique.
 
-📚 Theoretical Concept
+📚 Theoretical Concep
+
 The Caesar Cipher is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down the alphabet. For example, with a shift of 1, 'A' would be replaced by 'B', 'B' would become 'C', and so on. The method is named after Julius Caesar, who used it in his private correspondence.
 
 💻 Software Requirements
+
 Python 3.x
 PyCharm IDE
+
 🛠️ Tech Stack
+
 Programming Language: Python
 Libraries: Tkinter
 Development Environment: PyCharm
+
 🚀 How to Execute the Program
+
 Clone the Repository: sh git clone cd
 
 Run the Program: sh python caesar_cipher.py
 
 📂 Code Overview
+
 File: caesar_cipher.py
 This file contains the main implementation of the Caesar Cipher encryption and decryption tool using a Tkinter GUI.
 
